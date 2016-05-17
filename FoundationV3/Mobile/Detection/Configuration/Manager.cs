@@ -248,7 +248,7 @@ namespace FiftyOne.Foundation.Mobile.Detection.Configuration
         /// <summary>
         /// Returns the path to the binary file if provided.
         /// </summary>
-        internal static string BinaryFilePath
+        public static string BinaryFilePath
         {
             get
             {
